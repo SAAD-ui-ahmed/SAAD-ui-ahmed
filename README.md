@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SAAD-ui-ahmed
-- 👀 I’m interested in software developement 
+- 👀 I’m interested in web developement 
 - 🌱 I’m currently learning python programming language
 - 💞️ I’m looking to collaborate on github comunity
 - 📫 How to reach me ...
